@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/g8r8sxn4taikanl4/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-sse-ws-frontend/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/ltbaskjnkxvlieru?svg=true)](https://ci.appveyor.com/project/Anna7682/ahj-sse-ws-frontend)
 
 
 [GitHub Pages](https://Anna7682.github.io/ahj-sse-ws_frontend/)
